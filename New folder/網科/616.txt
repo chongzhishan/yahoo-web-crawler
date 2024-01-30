@@ -1,0 +1,1 @@
+先到電影的首頁然後點右鍵檢查，然後來查詢有關電影的網址是連結去哪裡，我發現這網址->"http://www.atmovies.com.tw/james-parallelism/newfilm.html"<-是連結去電影的收集地方，因此點進去之後做查詢的查詢，查詢結果做成dataframe一張表格然後匯出，可選擇csv或Excel
